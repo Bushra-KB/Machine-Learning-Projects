@@ -1,4 +1,4 @@
-<h1 align="center">Machine Learning Projects by Samsor Rahman</h1>
+<h1 align="center">Machine Learning Projects by team 2</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Projects-green" alt="Machine Learning Projects">
